@@ -12,13 +12,13 @@ asciidoc:
     turtles_version: v0.27.4
     # CAPI Providers versions
     aws_version: "v2.11.1"
-    azure_version: v1.23.2
-    gcp_version: v1.11.2
+    azure_version: v1.26.0
+    gcp_version: v1.13.1
     vsphere_version: v1.16.1
-    docker_version: v1.13.2
-    kubeadm_version: v1.13.2
-    rke2_version: v0.25.0
-    fleet_addon_version: v0.15.0
+    docker_version: v1.13.3
+    kubeadm_version: v1.13.3
+    rke2_version: v0.25.3
+    fleet_addon_version: v0.15.1
     # Partner certified providers
     evroc_version: v0.7.0
     evroc_rancher_version: v2.15.1
